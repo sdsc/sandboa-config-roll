@@ -1,4 +1,5 @@
 # sandboa devel cluster config
 
-This is a develop configuration repository for the *sandboa* development cluster.
+This is a development configuration repository for the *sandboa* VirtualBox
+development cluster.
 
